@@ -2,6 +2,12 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 
+"""
+    created by neonleexiang
+    date : 2019-04-09
+"""
+
+
 class LagrangeInterpolation:
 
     # --------------------- __init__ -------------------------------
